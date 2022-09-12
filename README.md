@@ -30,4 +30,4 @@ Lista ordenada
 ```
 [link](https://wwww.google.com)""titulo opcional""
 
-![leomessi][https://github.com/100007821/RepositorioDePrueba/blob/main/leomessi.png "Imagen de texto")
+![leomessi][https://github.com/100007821/RepositorioDePrueba/blob/main/leomessi.png)
